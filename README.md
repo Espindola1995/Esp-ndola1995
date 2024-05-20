@@ -1,7 +1,7 @@
-# Olá
+## Olá
 
 Sou prof° de Matemática 
 
-"Estou apreendendo Javascript"
+**Estou apreendendo JavaScrip**
 
 ![](https://media1.tenor.com/m/Vn-HdWRKjBsAAAAC/bibipet-cuteanimals.gif)
